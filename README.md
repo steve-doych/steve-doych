@@ -8,6 +8,8 @@ _______________________________________________________________
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![image](https://github.com/steve-doych/steve-doych/assets/160766550/aca3e51c-417b-4089-8024-7faffc8233ee)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=steve-doych&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=steve-doych&theme=highcontrast&hide_border=false)<br/>

@@ -2,7 +2,7 @@
 _______________________________________________________________
 
 # 💫 About Me:
-👨‍🎓	Currently studying to become Software engineer with !Python at SoftwareUniversity(https://softuni.bg) and working on personal projects to develop my software engineering skills.<br>📖	I love learning new techologies in my free time and strive to become more knowlegeble.<br>💬	I challenge myself with new problems to become a better developer every day.<br>
+👨‍🎓	Currently studying to become Software engineer with Python at SoftwareUniversity(https://softuni.bg) and working on personal projects to develop my software engineering skills.<br>📖	I love learning new techologies in my free time and strive to become more knowlegeble.<br>💬	I challenge myself with new problems to become a better developer every day.<br>
 📫 You can get in touch with me by email at: stevendoychinov@gmail.com
  
 
